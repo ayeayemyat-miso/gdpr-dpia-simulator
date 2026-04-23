@@ -1,4 +1,6 @@
 # GDPR DPIA Simulator
+## Live Demo
+[https://gdpr-dpia-simulator-dm6r35ojskanhbogvcecek.streamlit.app/]
 
 ## What This Project Does
 A decision-support tool for Irish financial services firms to determine if a Data Protection Impact Assessment (DPIA) is required for a new project under GDPR.
@@ -26,5 +28,3 @@ This tool implements two layers of DPIA assessment:
 2. `pip install -r requirements.txt`
 3. `streamlit run app.py`
 
-## Live Demo
-[Streamlit Cloud link]
